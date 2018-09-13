@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gosu-lang.gosu.managed:gw-jcommander:1.72">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gosu-lang/gosu/managed/gw-jcommander/1.72/gw-jcommander-1.72.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gosu-lang/gosu/managed/gw-jcommander/1.72/gw-jcommander-1.72-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gosu-lang/gosu/managed/gw-jcommander/1.72/gw-jcommander-1.72-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
