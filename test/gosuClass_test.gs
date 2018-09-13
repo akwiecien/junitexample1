@@ -9,6 +9,6 @@ public class gosuClass_test {
     var gc : gosuClass = new gosuClass();
     //assert
     Assert.assertNotNull(gc.GetId);
-    Assert.assertEquals(36,gc.GetId.length());
+    Assert.assertEquals("Length of id is not 36",36,gc.GetId.length());
   }
 }
